@@ -45,6 +45,13 @@ This project demonstrates the fulfillment of the course objectives, including ac
 
 ---
 
+## 📖 Learning Resources
+* **Textbook:** Professional Android 4 Application Development by Reto Meier.
+* **Reference:** Beginning Android Application Development by Wei-Meng Lee.
+* **Web:** developer.android.com and tutorialspoint.com.
+
+---
+
 
 
 
