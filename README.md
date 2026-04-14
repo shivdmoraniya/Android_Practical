@@ -38,6 +38,13 @@ This project demonstrates the fulfillment of the course objectives, including ac
 * **Database Management:** Managing data using SQLite and building a Doctor Detail database (doc_id, name, city, etc.).
 * **Data Sharing:** Sharing data between applications using Content Providers and ContentResolvers.
 
+### **Unit 5: Location & Web Services**
+* **Geo-Services:** Using Location Based Services and working with Google Maps.
+* **Sensor API:** Implementation of SensorManager, SensorEvent, and SensorEventListener.
+* **Networking:** Introduction to JSON Parsing and App Monetization.
+
+---
+
 
 
 
