@@ -15,3 +15,11 @@ This project demonstrates the fulfillment of the course objectives, including ac
 * **Prerequisites:** OOP concepts, Core Java, and RDBMS
 
 ---
+
+## 📂 Syllabus Coverage & Features
+
+### **Unit 1: Android Basics**
+* **Core Setup:** Installing Android Studio IDE and Android SDK.
+* **Fundamentals:** Understanding the Activity Life-Cycle and AndroidManifest.xml file.
+* **First Steps:** Creating "Hello World" and demonstrating the Activity Life Cycle.
+
