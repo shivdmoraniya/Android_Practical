@@ -23,3 +23,9 @@ This project demonstrates the fulfillment of the course objectives, including ac
 * **Fundamentals:** Understanding the Activity Life-Cycle and AndroidManifest.xml file.
 * **First Steps:** Creating "Hello World" and demonstrating the Activity Life Cycle.
 
+### **Unit 2: UI Design Essentials**
+* **Layouts:** Working with Linear, Relative, Table, Frame, and Absolute layouts.
+* **Advanced Widgets:** Using RecyclerView, ListView, Spinners, and AutoCompleteTextView.
+* **Logic-Based UI:** Implementation of a simple calculator and Fragment-based country/flag displays.
+
+
