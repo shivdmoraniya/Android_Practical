@@ -28,4 +28,10 @@ This project demonstrates the fulfillment of the course objectives, including ac
 * **Advanced Widgets:** Using RecyclerView, ListView, Spinners, and AutoCompleteTextView.
 * **Logic-Based UI:** Implementation of a simple calculator and Fragment-based country/flag displays.
 
+### **Unit 3: Multimedia & Hardware APIs**
+* **Animations:** Frame-by-Frame and Tween animations.
+* **System Tools:** Working with the Telephony API and sending SMS.
+* **Hardware Integration:** Using the Device Camera and working with the Alarm manager.
+
+
 
