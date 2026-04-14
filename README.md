@@ -33,5 +33,11 @@ This project demonstrates the fulfillment of the course objectives, including ac
 * **System Tools:** Working with the Telephony API and sending SMS.
 * **Hardware Integration:** Using the Device Camera and working with the Alarm manager.
 
+### **Unit 4: Data Persistence & Storage**
+* **Storage Mechanisms:** Internal Storage, External Storage, and Shared Preferences.
+* **Database Management:** Managing data using SQLite and building a Doctor Detail database (doc_id, name, city, etc.).
+* **Data Sharing:** Sharing data between applications using Content Providers and ContentResolvers.
+
+
 
 
